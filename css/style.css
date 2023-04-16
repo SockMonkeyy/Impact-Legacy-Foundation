@@ -1,9 +1,13 @@
 /********** Template CSS **********/
 :root {
-    --primary: #4761FF;
+    --primary: #9e8430;
     --secondary: #555555;
     --light: #F1F3FA;
     --dark: #1C2035;
+}
+
+.top-bar{
+    border-bottom: #f3caf2 solid;
 }
 
 .back-to-top {
@@ -172,6 +176,8 @@
     #header-carousel .carousel-item {
         position: relative;
         min-height: 450px;
+        background-color: rgba(0, 0, 0, 0.5);
+        z-index: 2;
     }
     
     #header-carousel .carousel-item img {
