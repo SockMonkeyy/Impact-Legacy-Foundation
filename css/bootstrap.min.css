@@ -6783,11 +6783,12 @@ fieldset:disabled .btn {
   word-break: break-word !important;
 }
 .text-primary {
-  color: #4761ff !important;
+  color: #f3caf2 !important;
 }
 .text-secondary {
   color: #555 !important;
 }
+
 .text-success {
   color: #198754 !important;
 }
@@ -6846,7 +6847,7 @@ fieldset:disabled .btn {
   background-color: #f1f3fa !important;
 }
 .bg-dark {
-  background-color: #1c2035 !important;
+  background-color: #9e8430 !important;
 }
 .bg-body {
   background-color: #fff !important;

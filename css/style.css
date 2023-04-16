@@ -10,6 +10,13 @@
     border-bottom: #f3caf2 solid;
 }
 
+.social{
+    color: #922a94;
+}
+
+.border-social{
+  border: solid 1px #922a94;  
+}
 .back-to-top {
     position: fixed;
     display: none;
@@ -569,6 +576,7 @@
 /*** Footer ***/
 .footer {
     color: #B0B9AE;
+    border-top: solid #f3caf2;
 }
 
 .footer .btn.btn-link {
