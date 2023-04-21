@@ -331,6 +331,7 @@
   box-shadow: 0 0 45px rgba(0, 0, 0, 0.06);
   transition: 0.5s;
   z-index: 2;
+  height: 450px;
 }
 
 .service-item:hover .service-text {
