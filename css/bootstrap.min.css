@@ -1808,7 +1808,7 @@ progress {
 .form-text {
   margin-top: 0.25rem;
   font-size: 0.875em;
-  color: #6c757d;
+  color: #f3caf2;
 }
 .form-control {
   display: block;
@@ -1817,7 +1817,7 @@ progress {
   font-size: 1rem;
   font-weight: 400;
   line-height: 1.5;
-  color: #555;
+  color: #f3caf2;
   background-color: #fff;
   background-clip: padding-box;
   border: 1px solid #ced4da;
